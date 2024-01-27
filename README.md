@@ -1,4 +1,4 @@
-# Snake Web Game
+# Snake Web Game 🐍
 
 Welcome to Snake Web Game! This is a simple web-based version of the classic Snake game, implemented using Python.
 
