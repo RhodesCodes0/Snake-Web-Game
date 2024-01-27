@@ -1,2 +1,2 @@
-# Snake Game!
+# Snake Web Game!
  I created a Snake web based video game from Python!
